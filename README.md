@@ -1,11 +1,11 @@
-# 🛍️ Online Retail Data Analysis
+# Online Retail Data Analysis
 
-## 📌 Project Overview
+## Project Overview
 This project analyzes an online retail dataset to understand customer behavior, sales patterns, and retention trends.
 
 ---
 
-## 📊 Dataset
+## Dataset
 The dataset contains transactional data from an online retail store.
 
 - InvoiceNumber: Unique identifier for each invoice (canceled invoices start with 'C')
@@ -19,7 +19,7 @@ The dataset contains transactional data from an online retail store.
 
 ---
 
-## 🎯 Objectives
+## Objectives
 - Analyze customer purchasing behavior
 - Perform cohort analysis
 - Calculate retention rates
@@ -27,7 +27,7 @@ The dataset contains transactional data from an online retail store.
 
 ---
 
-## 🧪 Analysis Steps
+## Analysis Steps
 1. Data cleaning (handling missing values, removing cancellations)
 2. Feature engineering (monthly cohorts, customer metrics)
 3. Cohort analysis and retention calculation
@@ -35,15 +35,7 @@ The dataset contains transactional data from an online retail store.
 
 ---
 
-## 📈 Results
+## Results
 - Built retention heatmap to track customer behavior over time
 - Identified key patterns in customer activity
 - Observed drop-off trends across cohorts
-
----
-
-## ⚙️ How to Run
-1. Clone the repository
-2. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
