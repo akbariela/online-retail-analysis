@@ -17,6 +17,7 @@ The dataset contains transactional data from an online retail store.
 - CustomerId: Unique identifier for each customer
 - Country: Customer's country
 
+Dataset source: https://archive.ics.uci.edu/ml/datasets/online+retail
 ---
 
 ## Objectives
