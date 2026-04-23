@@ -40,3 +40,14 @@ Dataset source: https://archive.ics.uci.edu/ml/datasets/online+retail
 - Built retention heatmap to track customer behavior over time
 - Identified key patterns in customer activity
 - Observed drop-off trends across cohorts
+
+---
+
+## Tools & Libraries
+- Python
+- pandas
+- numpy
+- matplotlib
+- scikit-learn
+
+See `requirements.txt` for exact versions.
